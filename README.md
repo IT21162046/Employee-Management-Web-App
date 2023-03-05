@@ -3,6 +3,6 @@
 
 Employee management web app is an app used to manage the company's employees. Here my function, employee profile management, was implemented with CRUD operations. I used MVC architecture and
 -Java
--JAVA Servlet 
--Tomcat server
+-JAVA Servlet
+-Tomcat Server
 -MySQL
